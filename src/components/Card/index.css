@@ -1,0 +1,12 @@
+.contenedor-card {
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.btn-card {
+    width: 80%;
+    background-color: blue;
+    color: #FFF;
+    border: 1px solid black;
+}

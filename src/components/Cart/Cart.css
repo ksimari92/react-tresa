@@ -1,0 +1,43 @@
+.carrito-container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #fafafa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    flex: 1;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0059c1;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
